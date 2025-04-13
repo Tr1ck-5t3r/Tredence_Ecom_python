@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+.env.bak/
+env/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Data files
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.pkl
+
+# Streamlit cache & logs
+.streamlit/
+.cache/
+logs/
+
+# OS-specific
+.DS_Store
+Thumbs.db
